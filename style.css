@@ -1,0 +1,165 @@
+.container {
+    background-color: rgb(70, 218, 70);
+    border: 2px solid rgb(114, 236, 114);
+    width: 40%;
+    height: 80%;
+    padding-top: 50px;
+    padding-left: 30px;
+    border-radius: 10px;
+}
+
+.btn {
+    border: 2px solid rgb(114, 236, 114);
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 3px 0px 90px;
+    padding: 8px 47px;
+
+}
+
+.box {
+    padding-left: 20px;
+}
+
+/* box-2 */
+header1 {
+    /* margin: 20px; */
+    padding: 20px;
+}
+
+.container2 {
+
+    border: 2px solid grey;
+    width: 40%;
+
+    padding-left: 30px;
+    border-radius: 10px;
+}
+
+.image {
+    border-radius: 150px;
+    height: 90px;
+    margin: 20px;
+}
+
+.imag {
+    border: 1px solid rgb(184, 182, 182);
+    height: 105px;
+    margin: 15px;
+    border-radius: 180px;
+}
+
+.footer {
+    color: rgb(25, 70, 194);
+    font-weight: bold;
+}
+
+/* box-3 */
+header3 {
+    padding: 20px;
+}
+
+.container3 {
+    border: 1px solid grey;
+    width: 42%;
+    /* box-sizing: border-box; */
+
+}
+
+.box3 {
+    height: 80%;
+    padding: 10px;
+    margin: 10px;
+}
+
+h4 {
+    font-weight: bolder;
+    font-size: 20px;
+    word-spacing: 3px;
+}
+
+.para {
+    color: rgb(85, 83, 83);
+}
+
+.but {
+    color: rgb(10, 80, 121);
+    font-weight: bolder;
+    border-radius: 7px;
+    font-size: 15px;
+    margin: 3px 0px 90px;
+    padding: 8px 47px;
+    border: 2px solid grey;
+}
+
+.i {
+    width: 100%;
+    border: 1px soild grey;
+}
+
+/* box4 */
+header3 {
+    padding: 20px;
+}
+
+.container4 {
+    border: 1px solid grey;
+    width: 42%;
+}
+
+.box4 {
+    height: 80%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.flod {
+    width: 100%;
+}
+
+.wlcm {
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+}
+
+input {
+    width: 100%;
+    margin-bottom: 12px;
+    border: 1px solid grey;
+    border-radius: 12px;
+    padding: 16px;
+    box-sizing: border-box;
+    color: black;
+}
+
+.buttonss {
+    background-color: black;
+    color: white;
+    text-align: center;
+    align-items: center;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 3px;
+    padding: 8px 47px;
+}
+
+.paras {
+    text-align: center;
+    align-items: center;
+}
+
+.forget {
+    text-align: center;
+    align-items: center;
+    text-decoration: underline;
+}
+
+.pp {
+    text-align: center;
+    align-items: center;
+    color: grey;
+}
